@@ -1,0 +1,620 @@
+{
+  "personajes": [
+    {
+      "id": 40881,
+      "nombre": "Mikasa Ackerman",
+      "imagen": "/img/personajes/mikasa-ackerman.png",
+      "about": "A prodigy soldier of the Scout Regiment and Eren's adoptive sister. She stands out for her superhuman combat strength and unwavering determination to protect him.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 40882,
+      "nombre": "Eren Yeager",
+      "imagen": "/img/personajes/eren-yeager.png",
+      "about": "An impulsive youth from Shiganshina who vows to wipe out all Titans after losing his mother. He wields the power of the Attack Titan and fights for humanity's freedom.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 46494,
+      "nombre": "Armin Arlert",
+      "imagen": "/img/personajes/armin-arlert.png",
+      "about": "Eren and Mikasa's closest friend, gifted with a brilliant strategic mind. Though he doubts his physical strength, his intellect repeatedly saves his comrades in critical moments.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 45627,
+      "nombre": "Levi Ackerman",
+      "imagen": "/img/personajes/levi-ackerman.png",
+      "about": "Captain of the Special Operations Squad, renowned as humanity's strongest soldier. Cold-mannered and obsessive about cleanliness, he holds deep respect for Commander Erwin.",
+      "division": ["Survey Corps"],
+      "rango": "Captain"
+    },
+    {
+      "id": 45887,
+      "nombre": "Sasha Braus",
+      "imagen": "/img/personajes/sasha-blouse.png",
+      "about": "A 104th Cadet Corps graduate famous for her insatiable appetite and sharp hunter's intuition. She is a skilled markswoman with a bow and brings warmth and humor to the squad.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 46484,
+      "nombre": "Reiner Braun",
+      "imagen": "/img/personajes/reiner-braun.png",
+      "about": "One of the top cadets of the 104th Corps, admired for his leadership and physical strength. Secretly, he is a Marleyan Warrior who possesses the Armored Titan.",
+      "division": ["Marleyan Warriors", "Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 46486,
+      "nombre": "Connie Springer",
+      "imagen": "/img/personajes/connie-springer.png",
+      "about": "An agile, light-hearted cadet from Ragako village who shares a close bond with Sasha. Despite his carefree personality, he displays remarkable courage on the battlefield.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 46488,
+      "nombre": "Bertolt Hoover",
+      "imagen": "/img/personajes/bertolt-hoover.png",
+      "about": "A tall, quiet cadet with strong technical skills who always stays close to Reiner. He is the secret inheritor of the Colossal Titan responsible for breaching Wall Maria.",
+      "division": ["Marleyan Warriors", "Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 46490,
+      "nombre": "Annie Leonhart",
+      "imagen": "/img/personajes/annie-leonhart.png",
+      "about": "A solitary soldier and master of hand-to-hand combat who joins the Military Police. She conceals her true identity as the Female Titan infiltrating behind the Walls.",
+      "division": ["Marleyan Warriors", "Military Police"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 46492,
+      "nombre": "Hannes",
+      "imagen": "/img/personajes/hannes.png",
+      "about": "A Garrison soldier and longtime friend of the Yeager family who rescued Eren and Mikasa in Shiganshina. He strives to redeem his past fear by protecting the young recruits.",
+      "division": ["Garrison Regiment"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 46496,
+      "nombre": "Erwin Smith",
+      "imagen": "/img/personajes/erwin-smith.png",
+      "about": "Commander of the Scout Regiment, a charismatic leader and bold strategist. He is willing to make ruthless sacrifices to uncover the truth about the outside world.",
+      "division": ["Survey Corps"],
+      "rango": "Commander"
+    },
+    {
+      "id": 46498,
+      "nombre": "Jean Kirstein",
+      "imagen": "/img/personajes/jean-kirstein.png",
+      "about": "A pragmatic and outspoken cadet who initially aims for a comfortable life in the Military Police. Over time, he matures into a natural leader within the Scout Regiment.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 62475,
+      "nombre": "Carla Yeager",
+      "imagen": "/img/personajes/carla-yeager.png",
+      "about": "Eren's mother and Grisha's wife, a loving and protective woman who opposes her son joining the Scouts. Her death during the fall of Shiganshina shapes Eren's entire path.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 62477,
+      "nombre": "Grisha Yeager",
+      "imagen": "/img/personajes/grisha-yeager.png",
+      "about": "A respected doctor in Shiganshina and Eren's father who hides crucial secrets in his basement. His past beyond the Walls holds the key to understanding the Titans' origin.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 62479,
+      "nombre": "Marco Bott",
+      "imagen": "/img/personajes/marco-bott.png",
+      "about": "An idealistic and empathetic cadet of the 104th Corps and Jean's close companion. His tragic death during the Battle of Trost inspires Jean to join the Scout Regiment.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 62481,
+      "nombre": "Krista Lenz",
+      "imagen": "/img/personajes/krista-lenz.png",
+      "about": "A kind and compassionate recruit admired as a 'goddess' by her peers in the 104th Corps. Her true identity is Historia Reiss, the rightful heir to the royal throne.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 62483,
+      "nombre": "Thomas Wagner",
+      "imagen": "/img/personajes/thomas-wagner.png",
+      "about": "A cadet of the 104th Corps from Trost and a close friend of Eren and Armin. He falls in battle while defending his hometown district against the Titans.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 62485,
+      "nombre": "Dot Pyxis",
+      "imagen": "/img/personajes/dot-pyxis.png",
+      "about": "Supreme Commander of the Garrison Regiment in the southern territory, eccentric and fond of liquor. He possesses sharp tactical instincts and trusts Eren's plan to seal Trost.",
+      "division": ["Garrison Regiment"],
+      "rango": "Commander"
+    },
+    {
+      "id": 62501,
+      "nombre": "Petra Ral",
+      "imagen": "/img/personajes/petra-ral.png",
+      "about": "An experienced and loyal member of Captain Levi's original Special Operations Squad. She excels with omni-directional mobility gear and shows kindness toward new recruits.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 71119,
+      "nombre": "Mike Zacharias",
+      "imagen": "/img/personajes/mike-zacharias.png",
+      "about": "A Squad Leader in the Scout Regiment and humanity's second-strongest soldier after Levi. He possesses an extraordinary sense of smell capable of detecting Titans from afar.",
+      "division": ["Survey Corps"],
+      "rango": "Squad Leader"
+    },
+    {
+      "id": 71121,
+      "nombre": "Hange Zoë",
+      "imagen": "/img/personajes/hange-zoe.png",
+      "about": "A Squad Leader in the Scout Regiment passionate about researching Titans. Hange combines an eccentric, enthusiastic demeanor with a brilliant scientific mind.",
+      "division": ["Survey Corps"],
+      "rango": "Squad Leader"
+    },
+    {
+      "id": 71123,
+      "nombre": "Nile Dok",
+      "imagen": "/img/personajes/nile-dok.png",
+      "about": "Commander of the Military Police tasked with maintaining order inside the Walls. He frequently clashes with Erwin Smith over their opposing methods and priorities.",
+      "division": ["Military Police"],
+      "rango": "Commander"
+    },
+    {
+      "id": 71125,
+      "nombre": "Darius Zackly",
+      "imagen": "/img/personajes/darius-zackly.png",
+      "about": "Premier and supreme commander of all three military branches within the Walls, calm in appearance yet ruthless in resolve. He presides over the military tribunal deciding Eren's fate.",
+      "division": ["Military Police"],
+      "rango": "Premier"
+    },
+    {
+      "id": 71453,
+      "nombre": "Nick",
+      "imagen": "/img/personajes/nick.png",
+      "about": "A pastor of the Wall Cult who fanatically guards the secrets hidden inside the Walls. His vow of silence is put to the test by Hange and the Scout Regiment.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 71455,
+      "nombre": "Cage",
+      "imagen": "/img/personajes/cage.png",
+      "about": "A member of the Scout Regiment who takes part in expeditions beyond the Walls under Commander Erwin Smith's leadership.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 71457,
+      "nombre": "Marlo Freudenberg",
+      "imagen": "/img/personajes/marlo-freudenberg.png",
+      "about": "An idealistic recruit in the Military Police who enlists determined to root out internal corruption. His strong sense of justice soon aligns him with the Scout Regiment.",
+      "division": ["Military Police", "Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 71459,
+      "nombre": "Dita Ness",
+      "imagen": "/img/personajes/dita-ness.png",
+      "about": "A Squad Leader in the Scout Regiment during the 57th Exterior Scouting Mission. He is a veteran officer known for his composure and exceptional horsemanship.",
+      "division": ["Survey Corps"],
+      "rango": "Squad Leader"
+    },
+    {
+      "id": 71461,
+      "nombre": "Luke Siss",
+      "imagen": "/img/personajes/luke-siss.png",
+      "about": "A Scout Regiment soldier who rides alongside Dita Ness on the right flank during the 57th expedition beyond the Walls.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 71479,
+      "nombre": "Ymir",
+      "imagen": "/img/personajes/ymir.png",
+      "about": "A cynical, guarded cadet of the 104th Corps fiercely devoted to protecting Krista Lenz. She secretly holds the power of the Jaw Titan and a past predating the Walls.",
+      "division": ["Survey Corps", "Marleyan Warriors"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 71481,
+      "nombre": "Nanaba",
+      "imagen": "/img/personajes/nanaba.png",
+      "about": "A veteran Squad Leader in the Scout Regiment admired for her composure under pressure. She shows immense bravery while defending unarmed recruits at Utgard Castle.",
+      "division": ["Survey Corps"],
+      "rango": "Squad Leader"
+    },
+    {
+      "id": 71687,
+      "nombre": "Oluo Bozado",
+      "imagen": "/img/personajes/oluo-bozado.png",
+      "about": "A seasoned member of Levi's Special Operations Squad with an impressive Titan kill record. He tries to mimic Levi's stoic demeanor, though he often ends up biting his tongue.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 71689,
+      "nombre": "Eld Jinn",
+      "imagen": "/img/personajes/eld-jinn.png",
+      "about": "Second-in-command of Levi's elite squad, respected for his calm judgment and tactical sense. He mentors and protects Eren during his integration into the Scout Regiment.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 71691,
+      "nombre": "Gunther Schultz",
+      "imagen": "/img/personajes/gunther-schultz.png",
+      "about": "A disciplined and loyal soldier serving in Captain Levi's original squad. He strictly follows orders and security protocols throughout the regiment's expeditions.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 83181,
+      "nombre": "Mina Carolina",
+      "imagen": "/img/personajes/mina-carolina.png",
+      "about": "An optimistic and dedicated cadet of the 104th Corps who fights in Eren's squad at Trost. She dies tragically during the counterattack to reclaim the district.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 84305,
+      "nombre": "Keith Shadis",
+      "imagen": "/img/personajes/keith-shadis.png",
+      "about": "The stern Chief Instructor of the 104th Cadet Corps and former Commander of the Scout Regiment. He tests every recruit's resolve before sending them to the front lines.",
+      "division": ["Cadet Corps", "Survey Corps"],
+      "rango": "Instructor"
+    },
+    {
+      "id": 84307,
+      "nombre": "Hugo",
+      "imagen": "/img/personajes/hugo.png",
+      "about": "A veteran Garrison soldier stationed in Shiganshina alongside Hannes. He maintains a relaxed attitude during peacetime before the fall of Wall Maria.",
+      "division": ["Garrison Regiment"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 84309,
+      "nombre": "Moses",
+      "imagen": "/img/personajes/moses.png",
+      "about": "A young Scout Regiment soldier who loses his life during an expedition beyond the Walls, leaving behind only his severed right arm.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 84311,
+      "nombre": "Moses's Mother",
+      "imagen": "/img/personajes/moses-mother.png",
+      "about": "A resident of Shiganshina who receives the remains of her son Moses after a Scout expedition, questioning the meaning of humanity's heavy sacrifices.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 84313,
+      "nombre": "Grandfather Arlert",
+      "imagen": "/img/personajes/grandfather-arlert.png",
+      "about": "Armin Arlert's grandfather, who raises him after his parents' disappearance and keeps the forbidden book about the outside world that inspires Armin and Eren's dreams.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 84315,
+      "nombre": "Samuel Linke-Jackson",
+      "imagen": "/img/personajes/samuel-linke-jackson.png",
+      "about": "A cadet of the 104th Corps who participates in the defense of Trost after the Colossal Titan's attack. He is rescued by Sasha after being knocked unconscious off the wall.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 84317,
+      "nombre": "Franz Kefka",
+      "imagen": "/img/personajes/franz-kefka.png",
+      "about": "A 104th Corps recruit deeply in love with his fellow cadet Hannah Diamant. He loses his life during the brutal battle to defend the Trost District.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 84319,
+      "nombre": "Hannah Diamant",
+      "imagen": "/img/personajes/hannah-diamant.png",
+      "about": "A cadet of the 104th Corps and Franz Kefka's partner during training and the Battle of Trost. She is left devastated while trying to revive him after the Titan assault.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 84321,
+      "nombre": "Dazz",
+      "imagen": "/img/personajes/dazz.png",
+      "about": "A fearful recruit of the 104th Corps who suffers panic attacks when confronted with the horrors of the Titans in Trost, reflecting the terror of rookie soldiers.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 84323,
+      "nombre": "Spectacled Instructor",
+      "imagen": "/img/personajes/spectacled-instructor.png",
+      "about": "An instructor of the 104th Cadet Corps responsible for evaluating trainees' physical aptitude and proficiency with omni-directional mobility gear.",
+      "division": ["Cadet Corps"],
+      "rango": "Instructor"
+    },
+    {
+      "id": 84325,
+      "nombre": "Kitz Weilman",
+      "imagen": "/img/personajes/kitz-weilman.png",
+      "about": "A Garrison Captain who panics upon discovering Eren's ability to transform into a Titan, ordering his troops to open fire on him in Trost.",
+      "division": ["Garrison Regiment"],
+      "rango": "Captain"
+    },
+    {
+      "id": 84327,
+      "nombre": "Barthes",
+      "imagen": "/img/personajes/barthes.png",
+      "about": "A Garrison Regiment soldier serving in the Trost District under the defense officers during the Titan invasion.",
+      "division": ["Garrison Regiment"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 84329,
+      "nombre": "Gustav",
+      "imagen": "/img/personajes/gustav.png",
+      "about": "An officer and direct aide to Commander Dot Pyxis in the Garrison Regiment. He works closely with Pyxis to plan the operation to retake the Trost District.",
+      "division": ["Garrison Regiment"],
+      "rango": "Officer"
+    },
+    {
+      "id": 84331,
+      "nombre": "Anka Rheinberger",
+      "imagen": "/img/personajes/anka-rheinberger.png",
+      "about": "A loyal Garrison soldier who serves as a trusted escort and aide to Commander Dot Pyxis during the military operations in Trost.",
+      "division": ["Garrison Regiment"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 84333,
+      "nombre": "Ian Dietrich",
+      "imagen": "/img/personajes/ian-dietrich.png",
+      "about": "An elite Squad Leader of the Garrison Regiment in Trost, cold-headed and pragmatic. He willingly risks his life to protect Eren while sealing the breach in the wall.",
+      "division": ["Garrison Regiment"],
+      "rango": "Squad Leader"
+    },
+    {
+      "id": 84335,
+      "nombre": "Nack Tierce",
+      "imagen": "/img/personajes/nack-tierce.png",
+      "about": "A cadet of the 104th Corps assigned to the vanguard squad alongside Eren during the Battle of Trost, where he falls fighting against the Titans.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 84337,
+      "nombre": "Millius Zermusky",
+      "imagen": "/img/personajes/millius-zermusky.png",
+      "about": "A 104th Corps recruit serving in Eren's squad during the defense of Trost, perishing in the opening clashes against the invading Titans.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 84339,
+      "nombre": "Sr. Ackerman",
+      "imagen": "/img/personajes/sr-ackerman.png",
+      "about": "Mikasa Ackerman's biological father, a quiet man who lived peacefully with his family in a mountain cabin until he was murdered by human traffickers.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 84341,
+      "nombre": "Mother Ackerman",
+      "imagen": "/img/personajes/mother-ackerman.png",
+      "about": "Mikasa Ackerman's mother and a descendant of the Oriental clan within the Walls. She dies defending her daughter when traffickers attack their home.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 84707,
+      "nombre": "Riko Brzenska",
+      "imagen": "/img/personajes/riko-brzenska.png",
+      "about": "A Garrison Squad Leader in Trost recognized for her strict discipline and combat skill. She supports Eren's mission to seal the breached gate of Wall Rose.",
+      "division": ["Garrison Regiment"],
+      "rango": "Squad Leader"
+    },
+    {
+      "id": 85211,
+      "nombre": "Tom",
+      "imagen": "/img/personajes/tom.png",
+      "about": "A recruit of the 104th Cadet Corps who takes part in the defense operations along the Walls alongside his fellow trainees.",
+      "division": ["Cadet Corps"],
+      "rango": "Cadet"
+    },
+    {
+      "id": 86017,
+      "nombre": "Hitch Dreyse",
+      "imagen": "/img/personajes/hitch-dreyse.png",
+      "about": "A Military Police soldier stationed in the Stohess District alongside Marlo and Annie. Beneath a cynical and carefree exterior, she proves loyal to her comrades.",
+      "division": ["Military Police"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 87385,
+      "nombre": "Mitabi Jarnach",
+      "imagen": "/img/personajes/mitabi-jarnach.png",
+      "about": "An elite Squad Leader of the Garrison Regiment in Trost. He sacrifices himself drawing Titans away so Eren can successfully seal the district gate.",
+      "division": ["Garrison Regiment"],
+      "rango": "Squad Leader"
+    },
+    {
+      "id": 89387,
+      "nombre": "Moblit Berner",
+      "imagen": "/img/personajes/moblit-berner.png",
+      "about": "Vice-captain and devoted assistant to Hange Zoë in the Scout Regiment. He spends much of his time trying to keep Hange safe from reckless experiments with Titans.",
+      "division": ["Survey Corps"],
+      "rango": "Vice-Captain"
+    },
+    {
+      "id": 89389,
+      "nombre": "Darius Baer-Varbrun",
+      "imagen": "/img/personajes/darius-baer-varbrun.png",
+      "about": "A Scout Regiment officer who takes part in the 57th Exterior Scouting Mission led by Commander Erwin Smith.",
+      "division": ["Survey Corps"],
+      "rango": "Officer"
+    },
+    {
+      "id": 92945,
+      "nombre": "Pale",
+      "imagen": "/img/personajes/pale.png",
+      "about": "A Scout Regiment soldier deployed as part of the forces during the 57th expedition beyond the Walls.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 92947,
+      "nombre": "Dieter",
+      "imagen": "/img/personajes/dieter.png",
+      "about": "A Scout Regiment soldier who survives the Female Titan's ambush and makes the fateful mistake of retrieving a fallen comrade's body, drawing Titans to his group.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 92949,
+      "nombre": "Jurgen",
+      "imagen": "/img/personajes/jurgen.png",
+      "about": "A member of the Scout Regiment who accompanies Dieter during the body-recovery mission following the 57th expedition.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 92951,
+      "nombre": "Father Ral",
+      "imagen": "/img/personajes/father-ral.png",
+      "about": "Petra Ral's father, unaware of his daughter's death when the Scouts return, who speaks cheerfully to Levi about Petra's future in the squad.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 92953,
+      "nombre": "Oluo's Father",
+      "imagen": "/img/personajes/oluo-father.png",
+      "about": "Oluo Bozado's father, belonging to a family proud of their son's service in Captain Levi's Special Operations Squad.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 92955,
+      "nombre": "Mother Bozado",
+      "imagen": "/img/personajes/mother-bozado.png",
+      "about": "Oluo Bozado's mother, who awaits her son's safe return home from the Scout Regiment's expeditions beyond the Walls.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 92957,
+      "nombre": "Mother Schultz",
+      "imagen": "/img/personajes/mother-schultz.png",
+      "about": "Gunther Schultz's mother, relative of the loyal member of Levi's elite squad who falls during the 57th expedition.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 92959,
+      "nombre": "Grandfather Schultz",
+      "imagen": "/img/personajes/grandfather-schultz.png",
+      "about": "Gunther Schultz's grandfather, proud of his grandson's service in Captain Levi's Special Operations Squad.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 92961,
+      "nombre": "Mother Jinn",
+      "imagen": "/img/personajes/mother-jinn.png",
+      "about": "Eld Jinn's mother, whose family awaits the return of Levi's second-in-command inside the Walls.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 92963,
+      "nombre": "Eld's lover",
+      "imagen": "/img/personajes/elds-lover.png",
+      "about": "Eld Jinn's fiancée, who waits for his return from the Scout Regiment's 57th expedition unaware of his death in action.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 92965,
+      "nombre": "Dennis Aiblinger",
+      "imagen": "/img/personajes/dennis-aiblinger.png",
+      "about": "A veteran Military Police officer in the Stohess District who uses his position to cut deals and stay away from frontline danger.",
+      "division": ["Military Police"],
+      "rango": "Officer"
+    },
+    {
+      "id": 92967,
+      "nombre": "Boris Feulner",
+      "imagen": "/img/personajes/boris-feulner.png",
+      "about": "A Military Police soldier in the Stohess District and fellow 104th trainee alongside Annie Leonhart, characterized by his pragmatic attitude.",
+      "division": ["Military Police"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 92969,
+      "nombre": "Father Leonhart",
+      "imagen": "/img/personajes/father-leonhart.png",
+      "about": "Annie Leonhart's adoptive father in Marley, who trained her harshly in martial arts from childhood before regretting his actions and begging her to return home.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 100947,
+      "nombre": "Dimo Reeves",
+      "imagen": "/img/personajes/dimo-reeves.png",
+      "about": "An influential merchant of the Reeves Company in Trost who initially blocks evacuation with his cart, but later becomes a key ally of the Scout Regiment.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 150717,
+      "nombre": "Abel",
+      "imagen": "/img/personajes/abel.png",
+      "about": "A member of Hange Zoë's squad in the Scout Regiment who assists in Titan research and key operations inside the Walls.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    },
+    {
+      "id": 171380,
+      "nombre": "Louise",
+      "imagen": "/img/personajes/louise.png",
+      "about": "A young Trost resident rescued by Mikasa during the district's evacuation, inspiring her to idolize Mikasa and later enlist in the military.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 208026,
+      "nombre": "Narrator",
+      "imagen": "/img/personajes/narrator.png",
+      "about": "The series' narrator, providing historical context on humanity behind the Walls, the three military branches, and key events in each episode.",
+      "division": ["Civilian"],
+      "rango": "Civilian"
+    },
+    {
+      "id": 253967,
+      "nombre": "Waltz",
+      "imagen": "/img/personajes/waltz.png",
+      "about": "A Scout Regiment soldier who participates in the regiment's operations and expeditions beyond the Walls.",
+      "division": ["Survey Corps"],
+      "rango": "Soldier"
+    }
+  ]
+}

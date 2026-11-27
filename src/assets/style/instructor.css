@@ -1,0 +1,86 @@
+/* BARRA DE SCROLL */
+.chat-scrollbar {
+    scrollbar-width: none;
+    /* Firefox */
+    -ms-overflow-style: none;
+    /* IE y Edge */
+}
+
+.chat-scrollbar::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Safari, Opera */
+}
+
+.shadis-float-bg {
+    background: linear-gradient(135deg, var(--color-verde-card) 0%, var(--color-bosque-oscuro) 100%);
+}
+
+/* Animación de entrada para el test */
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.test-animate {
+    animation: slideUp 0.3s ease-out forwards;
+}
+
+/* ESTILO DEL CHAT */
+
+/* Fondo de la ventana del chat */
+.chat-window-bg {
+    background: linear-gradient(135deg, #111815 0%, #17211d 100%);
+}
+
+/* Header del chat */
+.chat-header-bg {
+    background-color: #0a0f0c;
+    border-bottom: 1px solid rgba(80, 150, 99, 0.2);
+}
+
+/* Burbuja del Instructor Shadis */
+.chat-bubble-bot {
+    background-color: var(--color-bosque-oscuro);
+    border: 1px solid rgba(80, 150, 99, 0.2);
+}
+
+/* Burbuja del Usuario */
+.chat-bubble-user {
+    background-color: var(--color-verde-pizarra);
+    border: 1px solid rgba(80, 150, 99, 0.4);
+}
+
+/* Área de Input */
+.chat-input-area {
+    background-color: #0a0f0c;
+    border-top: 1px solid rgba(80, 150, 99, 0.2);
+}
+
+/* Botones Principales */
+.btn-chat-primary {
+    background-color: var(--color-verde-medio);
+    color: #0a0f0c;
+    transition: background-color 0.2s ease;
+}
+
+.btn-chat-primary:hover {
+    background-color: var(--color-verde-claro);
+}
+
+/* Botones Secundarios */
+.btn-chat-secondary {
+    background-color: var(--color-verde-pizarra);
+    color: var(--color-pergamino);
+    transition: background-color 0.2s ease;
+}
+
+.btn-chat-secondary:hover {
+    background-color: var(--color-verde-medio);
+}
