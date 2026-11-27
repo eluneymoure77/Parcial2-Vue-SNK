@@ -1,6 +1,6 @@
 import { ref } from 'vue'
 
-const API_BASE = 'https://api.tenrai.org/v1'
+const API_BASE = 'https://api.tenrai.og/v1'
 const ANIME_ID_DEFAULT = 16498
 const MANGA_ID_DEFAULT = 23390
 
@@ -204,16 +204,16 @@ export function useSnkApi() {
     mangaInfo,
     mangaMoreInfo,
     personajes,
-    personajeDetalle, 
+    personajeDetalle,
     personajeInfiltrado,
     cargandoAnime,
     cargandoManga,
     cargandoPersonajes,
-    cargandoDetalle, 
+    cargandoDetalle,
     errorAnime,
     errorManga,
     errorPersonajes,
-    errorDetalle, 
+    errorDetalle,
     obtenerAnime,
     obtenerManga,
     obtenerMangaMoreInfo,
